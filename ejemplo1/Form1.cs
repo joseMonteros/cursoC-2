@@ -16,7 +16,7 @@ namespace ejemplo1
         {
             InitializeComponent();
         }
-
+        //holaaaa
         private void Form1_Load(object sender, EventArgs e)
         {
 
